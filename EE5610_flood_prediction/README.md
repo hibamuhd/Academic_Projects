@@ -205,11 +205,11 @@ The project provides a foundation for further work involving class-imbalance tec
 
 ---
 
+## Disclaimer
 
-## Author
+This repository documents a **coursework-based machine learning project** developed as an academic exercise. The project was developed with reference to **multiple publicly available sources, prior work and similar machine-learning approaches**, and AI-assisted tools were also used during parts of the research, development, debugging, and documentation process.
 
-**Hiba Muhammed**
-Department of Electrical Engineering
-IIT Hyderabad
+The methodology, model choices, preprocessing pipeline, evaluation strategy, and interpretations should therefore be understood in the context of an **academic/coursework project rather than as entirely novel research**. AI tools and external references were used as supporting resources, while the final implementation, analysis, evaluation, and presentation were reviewed and adapted as part of the project.
 
-Coursework Project
+**Please do not treat the repository as a standalone authoritative source or assume that every implementation choice or conclusion is independently validated.** For reproducibility and further study, readers are encouraged to consult the cited dataset, references, and underlying literature.
+
